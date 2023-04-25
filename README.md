@@ -1,2 +1,2 @@
-# familystuff
+# familyStuff
 a family website
